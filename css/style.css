@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+body{
+	font-family: "Lato";
+}
+
+[class*=__container]{
+	width: 1230px;
+	margin: 0 auto;
+}
+/* .article__title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin-bottom: 32px;
+}
+.article__photo {
+	margin-bottom: 60px;
+	text-align: center;
+}
+.article__photo img{
+	max-width: 100%;
+}
+.article__main-text {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+.article__text {
+	line-height: 160%;
+	color: #424551;
+}
+.paragraph-one{
+	margin-bottom: 48px;
+}
+.paragraph-one p:nth-child(1){
+margin-bottom: 40px;
+}
+.article__blockquote {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 48px;
+	background: url("../img/icons/braces.svg") 0 6px no-repeat;
+	padding-left:50px;
+}
+.article__text p{
+	margin-bottom: 24px;
+}
+.article__text ul{
+	margin-bottom: 24px;
+}
+.article__text li{
+	background: url("../img/icons/check.svg") 0 5px no-repeat;
+	padding-left: 32px;
+}
+.article__text li:not(:last-child){
+	margin-bottom: 4px;
+}
+
+
+/* maket two */
+.why-createx {
+
+}
+.why-createx__container {
+}
+.why-createx__body {
+}
+.why-createx__title {
+}
+.title p{
+	font-weight: 700;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 8px;
+}
+.title h2{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin-bottom: 40px;
+}
+.why-createx__list {
+	margin-bottom: 48px;
+}
+.why-createx__list ul{
+
+}
+.why-createx__list li{
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 10px;
+	background: url("../img/icons/check.svg") 0 5px no-repeat;
+	padding-left: 32px;
+}
+.why-createx__button a{
+	ont-weight: 700;
+	font-size: 14px;
+	line-height: 44px;
+	color: #FFFFFF;
+	background-color: #F75E05;
+	padding: 10px 32px;
+}
+.why-createx__photo {
+	margin-bottom: 180px;
+}
+.featured-courses {
+}
+.featured-courses__container {
+}
+.featured-courses__body {
+}
+.featured-courses__title {
+}
+.featured-courses__button {
+}
+.featured-courses__colums {
+}
+.colums {
+	display: flex;
+}
+.colum {
+}
+.colum__photo {
+	display: inline-block;
+}
+.colum__info{
+	margin-left: 32px;
+}
+.colum__special {
+	font-size: 14px;
+	line-height: 150%;
+	color: #FFFFFF;
+	background: #03CEA4;
+	border-radius: 4px;
+}
+.colum__about {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+}
+.colum__price {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 150%;
+	color: #FF4242;
+	margin-right: 10px;
+}
+.colum__name {
+	font-size: 18px;
+	line-height: 150%;
+	color: #787A80;
+} 
+
+.workshop {
+}
+.workshop__container {
+}
+.workshop__top {
+}
+.workshop__subtitle {
+}
+.subtitle {
+}
+.workshop__title {
+}
+.title {
+}
+.workshop__blocks {
+}
+.block-workshop {
+}
+.date {
+}
+.date__number {
+}
+.date__month {
+}
+.date__hour {
+}
+.inside {
+}
+.inside__slogan {
+}
+.inside__text {
+}
+.block-workshop__button {
+}
+.button {
+}
+.workshop__footer {
+}
+.workshop__qestion {
+}
+.workshop__button {
+}
